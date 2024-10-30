@@ -12,7 +12,7 @@ end counter1;
 
 architecture rtl_arch of counter1 is
 	signal faster, slower: std_logic;			--signals that determine whether fast is 2 clock cycles or 4 clock cycles
-	signal counter: std_logic_vector(1 downto 0):= "00";			--counter signal for clock cycles
+	signal counter: unsigned(1 downto 0):= "00";			--counter signal for clock cycles
 begin
 	process(clk, reset, pause, fast, faster, slower, counter)
 	begin

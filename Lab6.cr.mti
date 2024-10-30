@@ -1,0 +1,36 @@
+{C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/counter2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/counter2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter2
+-- Compiling architecture rtl_arch of counter2
+
+} {} {}} {C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/rotate_led.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/rotate_led.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rotate_led_tb
+-- Compiling architecture arch of rotate_led_tb
+** Error: (vcom-11) Could not find work.rotate_led.
+** Error (suppressible): C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/rotate_led.vhd(18): (vcom-1195) Cannot find expanded name "work.rotate_led".
+** Error: C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/rotate_led.vhd(18): Unknown expanded name.
+** Error: C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/rotate_led.vhd(92): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 12.0} {}} {C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/rotate_led_tb.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/rotate_led_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+** Error (suppressible): C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/rotate_led_tb.vhd(2): (vcom-1491) Empty source files.
+
+} {} {}} {C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/counter1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Hamid/Documents/Academic Years/Fall 2024/Modern Digital Design/Lab6-main/Lab6/counter1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter1
+-- Compiling architecture rtl_arch of counter1
+
+} {} {}}
