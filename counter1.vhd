@@ -35,5 +35,5 @@ begin
 			end if;
 		end if;
 	end process;
-tick <= fast when pause = '1' else slower when pause = '1';			
+tick <= fast when pause = '1' else slower when pause = '0';			
 end architecture rtl_arch;
